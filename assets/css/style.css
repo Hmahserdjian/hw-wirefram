@@ -1,0 +1,27 @@
+body {
+  padding: 0px;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: green;
+  background: gray;
+}
+header {
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 1060px;
+  color: #333;
+  background: #ccc;
+  box-sizing: border-box;
+  text-align: left;
+  color: green;
+}
+Nav 
+  {
+    
+      position:absolute;
+      top:67px;
+      right:20px;
+     text-align: right;
+}
