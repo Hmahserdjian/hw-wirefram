@@ -27,12 +27,12 @@ Nav
 }
 
 footer {
-  text-align: center;
+  text-align: left;
   position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: gray;(248, 98, 98);
     color: white;
 
 }
